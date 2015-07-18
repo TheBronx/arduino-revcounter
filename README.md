@@ -1,10 +1,11 @@
 # arduino-revcounter
-> a revcounter sketch for arduino
+> a revcounter sketch for arduino  
+> http://salvatorelab.es
 
 # Español
 Hice este proyecto hace unos meses con los siguientes materiales:
  - Arduino nano
- - display de 4 dígitos - 7 segmentos
+ - display de 4 dígitos - 7 segmentos (aquí unos ejemplos: http://salvatorelab.es/2013/11/arduino-4-digit-7-segments-display-ejemplos/)
  - sensor inductivo
 
 El objetivo era añadir un contador de revoluciones a un antiguo torno que no tenía.
