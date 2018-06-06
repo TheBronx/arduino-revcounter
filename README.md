@@ -1,23 +1,9 @@
-# arduino-revcounter
-> a revcounter sketch for arduino  
-> http://salvatorelab.es
-
-# Español
-Hice este proyecto hace unos meses con los siguientes materiales:
- - Arduino nano
- - display de 4 dígitos - 7 segmentos (aquí unos ejemplos: http://salvatorelab.es/2013/11/arduino-4-digit-7-segments-display-ejemplos/)
- - sensor inductivo
-
-El objetivo era añadir un contador de revoluciones a un antiguo torno que no tenía.
-
-Funciona hasta 3000rpm. La precisión depende de cómo coloques las placas de detección del sensor inductivo (espaciadas regularmente y con el mismo tamaño) aunque se puede calibrar después con un medidor externo y retocarlo un poco en código.
-
-# English
-This is a small project I made a few months ago with:
- - an Arduino nano
- - a 4 digit - 7 segment display
- - an inductive sensor
-
-With all that stuff I added a rev counter to a lathe that didn't have one :D
-
-It detects up to 3000rpm, accuracy depends on the inductive sensor and plates positioning.
+# This repo is now on GitLab
+Since this site is now owned by Microsoft I have moved this repo to GitLab: https://gitlab.com/salvatorelab/arduino-revcounter  
+## Why am I moving to GitLab
+For me this is not about publishing the code and giving it a license. Free Software is more than that.  
+When I share code, I do it so that others can read it, understand how it works, modify it, use it, check if there is anything wrong or malicious about it and trust the code (or not!) instead of me or a company.  
+Sharing code (either under an Open Source or a Free Software License) is a **philosophy**.  
+I believe GitHub is no longer a good place to do this because Microsoft is not aligned with these principles. I know they have recently open sourced projects like Visual Studio Code and a few others, and seem to be going in that direction. However I also know they do fight Open Source and Free Software initiatives like what happened in Munich after they moved to Linux.  
+I believe Microsoft is still way too far from Open Source, and even farther from Free Software. This is why I am not going to be part of the new GitHub era. I will reconsider it in the future.  
+Sorry for the inconvenience, I hope that you understand.  
